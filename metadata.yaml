@@ -1,0 +1,30 @@
+_repo: Prison-Life-in-the-Old-Capitol-and-Reminiscences-of-the-Civil-War_66470
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Williamson, James J.
+    gutenberg_agent_id: '53825'
+    url: http://www.gutenberg.org/2009/agents/53825
+  - agent_name: Williamson, B. F.
+    gutenberg_agent_id: '45966'
+    url: http://www.gutenberg.org/2009/agents/45966
+description: ''
+gutenberg_issued: '2021-10-05'
+identifiers:
+  gutenberg: '66470'
+language: en
+pgterms:marc904: https://archive.org/details/prisonlifeoldcap00willrich
+pgterms:marc905: 20200119113139williamson
+pgterms:marc906: '1911'
+pgterms:marc907: US
+production_note: D A Alexander, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: United States :James J. Williamson,1911.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Prison Life in the Old Capitol and Reminiscences of the Civil War
+url: http://www.gutenberg.org/ebooks/66470
